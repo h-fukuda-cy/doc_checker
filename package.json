@@ -13,7 +13,6 @@
     "textlint-rule-ja-no-weak-phrase": "^1.0.5",
     "textlint-rule-no-double-negative-ja": "^1.0.6",
     "textlint-rule-ja-no-redundant-expression": "^2.0.0",
-    "textlint-rule-common-misspellings": "^1.0.1",
-    "textlint-plugin-html": "^0.2.0"
+    "textlint-rule-common-misspellings": "^1.0.1"
   }
 }
